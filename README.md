@@ -19,7 +19,7 @@
 
 
 <p align="center" style = "text-align: justify">
-  Sou mais um aficionado pelo área de TI que sobrevive na etapa final da faculdade e que busca uma transição para a área:raising_hand:. Recentemente me apaixonei por cibersegurança, o que vem sendo o foco dos meus estudo, junto com Porgramação :books:.
+  Sou mais um aficionado pelo área de TI que sobrevive na etapa final da faculdade e que busca uma transição para a área:raising_hand:. Recentemente me apaixonei por cibersegurança, o que vem sendo o foco dos meus estudo, junto com Programação :books:.
   Atualmente curso Sistemas e Mídias Digitais, na Universidade Federal do Ceará, com foco em Design/UI/UX, faço parte da comunidade da UBL - Universidade Brasileira Livre e logo mais iniciarei Sistemas da Informação pela Faculdade Descomplica. Vlw Flw :wave:.
 </p>  
 
