@@ -19,8 +19,7 @@
 
 
 <p align="center" style = "text-align: justify">
-  Sou mais um aficionado pelo área de TI que sobrevive na etapa final da faculdade e que busca uma transição para a área:raising_hand:. Recentemente me apaixonei por cibersegurança, o que vem sendo o foco dos meus estudo, junto com Programação :books:.
-  Atualmente curso Sistemas e Mídias Digitais, na Universidade Federal do Ceará, com foco em Design/UI/UX, faço parte da comunidade da UBL - Universidade Brasileira Livre, atualmente estudando desenvolvimento web front-end/devops. Gratidão :wave:.
+  Bacharel em Sistemas e Mídias digitais pela Universidade Federal do Ceará. Atuando como Designer UI/UX desde 2020. Constante aprendiz, fascinado em adquirir e compartilhar conhecimentos a fim de desenvolver e fornecer a melhor experiência para produtos digitais.
 </p>  
 
 
